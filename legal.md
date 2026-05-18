@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: Mentions légales
 background: grey
 ---
 
@@ -34,6 +34,12 @@ We do not collect any data about you or use any cookies.
 
 We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
 
-**CONTACT US**
+**CONTACTEZ-NOUS**
 
-For more information about our privacy practices or if you have questions, please <a href="./#contact">contact us.
+Pour plus d'informations sur notre politique de confidentialité ou si vous avez des questions, n'hésitez pas à [nous contacter](./#contact).
+
+**CRÉDITS**
+
+Ce siteweb utilise une [photo](https://commons.wikimedia.org/wiki/File:Bex_-_Dents_du_Midi.jpg) prise par Zacharie Grossen, sous la license [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Le thème de ce siteweb est basé sur [Agency Jekyll Theme](http://jekyllthemes.org/themes/agency/) par Ravi Riley, conçu sous la MIT license.

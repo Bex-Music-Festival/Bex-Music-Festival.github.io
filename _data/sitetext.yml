@@ -24,7 +24,7 @@ en: &DEFAULT_EN
       All interested parties should [contact us](#contact).
 
   concert:
-    title: "Concert"
+    title: "Concerts"
 #    text: "Lorem ipsum dolor sit amet consectetur."
     section: concert
     closebutton: "Close"
@@ -68,7 +68,7 @@ fr: &DEFAULT_FR
       Toutes les personnes intéressées sont invitées à [nous contacter](#contact).
 
   concert:
-    title: "Concert"
+    title: "Concerts"
 #    text: "Lorem ipsum dolor sit amet consectetur."
     section: concert
     closebutton: "Fermer"

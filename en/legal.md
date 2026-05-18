@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: Legal Notice
 background: grey
 ---
 
@@ -34,6 +34,17 @@ We do not collect any data about you or use any cookies.
 
 We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
 
+
+{{ site.data.sitetext[current_lang].legal.text }}
+
+{{ current_lang }}
+
 **CONTACT US**
 
-For more information about our privacy practices or if you have questions, please <a href="./#contact">contact us.
+For more information about our privacy practices or if you have questions, please [contact us](./#contact).
+
+**CREDITS**
+
+This website uses a (picture)[https://commons.wikimedia.org/wiki/File:Bex_-_Dents_du_Midi.jpg] taken by Zacharie Grossen, licensed under (CC BY-SA 4.0)[https://creativecommons.org/licenses/by-sa/4.0/].
+
+The theme of this website is based on (Agency Jekyll Theme)[http://jekyllthemes.org/themes/agency/] by Ravi Riley, licensed under the MIT license.
