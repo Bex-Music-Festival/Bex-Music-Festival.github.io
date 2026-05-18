@@ -64,11 +64,7 @@ fr: &DEFAULT_FR
   presentation:
     title: Présentation
     text: |
-      The festival was established in 2025 by Robert Sandford Stewart to support young musicians.
-      
-      A premier chamber music festival promoting a new generation of artists bringing a musical experience to the community in the heartland of Vaud. The mission is to establish a premier, community-focused chamber music festival in Bex.
-      
-      The Rhone Valley and Chablais region boast a vibrant arts community. Our mission is to inspire young locals - in Bex and the surrounding Chablais region along the Rhone Valley from Martigney to Monthey, Ollon, Villars-sur-Ollons, Aigle, Villeneuve, to Vevey and villages - to learn and perform music. By offering diverse educational experiences from classical to jazz, we nurture a new generation of amateur and professional musicians, fostering a lifelong passion for music within our community. 
+      Un festival de musique de chambre de premier plan, promouvant une nouvelle génération d'artistes et offrant une expérience musicale d'exception à la communauté au cœur du canton de Vaud. Notre mission est d'établir à Bex un événement d'excellence, véritablement ancré dans la vie locale.
 
   concert:
     title: "Concert"
@@ -77,22 +73,22 @@ fr: &DEFAULT_FR
     closebutton: "Fermer"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "Info pratiques"
+#    text: "our story"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
     section: about
 
   contact:
     title: "Contactez-nous"
     section: contact
     name: "Nom *"
-    name-validation: "Please enter your name."
+    name-validation: "Veuillez saisir votre nom."
     email: "Email *"
-    email-validation: "Please enter your email address."
+    email-validation: "Veuillez saisir votre adresse email."
     phone: "Numéro de téléphone *"
-    phone-validation: "Please enter your phone number."
+    phone-validation: "Veuillez saisir votre numéro de téléphone."
     message: "Message *"
-    message-validation: "Please enter a message."
+    message-validation: "Veuillez saisir votre message."
     subject: "Envoyer"
     submit: "Envoyer"
 

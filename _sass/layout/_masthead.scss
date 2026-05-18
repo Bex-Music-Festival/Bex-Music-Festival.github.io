@@ -22,6 +22,7 @@ header.masthead {
       font-weight: 400;
       line-height: 50px;
       margin-bottom: 25px;
+      filter: drop-shadow(0 0 0.75rem black);
       @include heading-font;
     }
   }
