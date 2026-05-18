@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+{% assign url_parts = page.url | split: "/" %}
+{% assign current_lang = url_parts[1] %}
+{% if current_lang != "en" %}
+  {% assign current_lang = "fr" %}
+{% endif %}
 {% include nav.html %}
 
 {% if page.background == "grey" or page.background == "gray" %}

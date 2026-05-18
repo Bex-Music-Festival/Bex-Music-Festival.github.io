@@ -17,13 +17,9 @@ en: &DEFAULT_EN
 #    buttonlink: "#services"
 
   presentation:
-    title: Présentation
+    title: Presentation
     text: |
-      The festival was established in 2025 by Robert Sandford Stewart to support young musicians.
-      
-      A premier chamber music festival promoting a new generation of artists bringing a musical experience to the community in the heartland of Vaud. The mission is to establish a premier, community-focused chamber music festival in Bex.
-      
-      The Rhone Valley and Chablais region boast a vibrant arts community. Our mission is to inspire young locals - in Bex and the surrounding Chablais region along the Rhone Valley from Martigney to Monthey, Ollon, Villars-sur-Ollons, Aigle, Villeneuve, to Vevey and villages - to learn and perform music. By offering diverse educational experiences from classical to jazz, we nurture a new generation of amateur and professional musicians, fostering a lifelong passion for music within our community. 
+      The Bex Music Festival was founded by Robert and Machteld Schrama-Stewart in 2025 to promote young, talented musicians to play in public to gain reognition for their professional skills. Strated in Bex, Vaud, it opened its forst concert in Amsterdam at the famed Ijzerstaven Concert Hall. The Festival promotes all budding young artists to play before large live audiences to gain confidence and recognition. Bi-monthly concerts will be held at La Pelouse Convent and the Bex Temple. All interested parties shpould apply on line or at rss1@interopag.com
 
   concert:
     title: "Concert"
@@ -34,7 +30,8 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: |
+      The Festival is open to all young people whose play will be mixed with world-class professionals to gain experience with them. All local musicians from Bex and the wider Chablais are welcome to apply. The Festival is open to all audiences.
     section: about
 
   contact:
@@ -52,7 +49,7 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "Legal Notice"
 
 fr: &DEFAULT_FR
   header:
@@ -64,7 +61,7 @@ fr: &DEFAULT_FR
   presentation:
     title: Présentation
     text: |
-      Un festival de musique de chambre de premier plan, promouvant une nouvelle génération d'artistes et offrant une expérience musicale d'exception à la communauté au cœur du canton de Vaud. Notre mission est d'établir à Bex un événement d'excellence, véritablement ancré dans la vie locale.
+      Le Festival de Musique de Bex a été fondé en 2025 par Robert et Machteld Schrama-Stewart afin de promouvoir des jeunes musiciens talentueux qui souhaitent se produire en public et ainsi se faire connaître pour leurs compétences professionnelles. Le Festival a débuté à Bex, dans le canton de Vaud, et a donné son premier concert à Amsterdam, dans la célèbre salle de concert Ijzerstaven. Le Festival encourage tous les jeunes artistes en herbe à se produire devant un large public afin de gagner en confiance et en notoriété. Des concerts auront lieu tous les deux mois à la Convent de La Pelouse et au Temple de Bex. Toutes les personnes intéressées sont invitées à s’inscrire en ligne ou à rss1@interopag.com
 
   concert:
     title: "Concert"
@@ -75,7 +72,8 @@ fr: &DEFAULT_FR
   about:
     title: "Info pratiques"
 #    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+    body: |
+      Le festival est ouvert à tous les jeunes dont les interprétations seront aux côtés de professionnels de classe mondiale, afin qu'ils puissent acquérir de l'expérience à leurs côtés. Tous les musiciens locaux de Bex et de l'ensemble du Chablais sont invités à postuler. Le festival s'adresse à tous les publics.
     section: about
 
   contact:
@@ -93,4 +91,4 @@ fr: &DEFAULT_FR
     submit: "Envoyer"
 
   footer:
-    legal: "Politique de confidentialité"
+    legal: "Mentions légales"
