@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+{% assign url_parts = page.url | split: "/" %}
+{% assign current_lang = url_parts[1] %}
+{% if current_lang != "en" %}
+  {% assign current_lang = "fr" %}
+{% endif %}
 <html lang="{{ current_lang | slice: 0,2 | default: "fr" }}">
 
   {% include head.html %}

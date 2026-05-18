@@ -5,7 +5,7 @@
 # locale: "en-US"  [YOUR PREFERRED LOCALE]
 #
 # How to use:
-# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+# {{ site.data.ui-text[current_lang].<var_name> | default: 'text' }}
 
 # English [default] (https://localizely.com/language-code/en/)
 # -----------------
@@ -19,7 +19,9 @@ en: &DEFAULT_EN
   presentation:
     title: Presentation
     text: |
-      The Bex Music Festival was founded by Robert and Machteld Schrama-Stewart in 2025 to promote young, talented musicians to play in public to gain reognition for their professional skills. Strated in Bex, Vaud, it opened its forst concert in Amsterdam at the famed Ijzerstaven Concert Hall. The Festival promotes all budding young artists to play before large live audiences to gain confidence and recognition. Bi-monthly concerts will be held at La Pelouse Convent and the Bex Temple. All interested parties shpould apply on line or at rss1@interopag.com
+      The Bex Music Festival was founded by Robert and Machteld Schrama-Stewart in 2025 to promote young, talented musicians to play in public to gain reognition for their professional skills. Strated in Bex, Vaud, it opened its forst concert in Amsterdam at the famed Ijzerstaven Concert Hall. The Festival promotes all budding young artists to play before large live audiences to gain confidence and recognition. Bi-monthly concerts will be held at La Pelouse Convent and the Bex Temple.
+
+      All interested parties should [contact us](#contact).
 
   concert:
     title: "Concert"
@@ -28,8 +30,8 @@ en: &DEFAULT_EN
     closebutton: "Close"
 
   about:
-    title: "About Us"
-    text: "our story"
+    title: "Practical Information"
+#    text: "our story"
     body: |
       The Festival is open to all young people whose play will be mixed with world-class professionals to gain experience with them. All local musicians from Bex and the wider Chablais are welcome to apply. The Festival is open to all audiences.
     section: about
@@ -61,7 +63,9 @@ fr: &DEFAULT_FR
   presentation:
     title: Présentation
     text: |
-      Le Festival de Musique de Bex a été fondé en 2025 par Robert et Machteld Schrama-Stewart afin de promouvoir des jeunes musiciens talentueux qui souhaitent se produire en public et ainsi se faire connaître pour leurs compétences professionnelles. Le Festival a débuté à Bex, dans le canton de Vaud, et a donné son premier concert à Amsterdam, dans la célèbre salle de concert Ijzerstaven. Le Festival encourage tous les jeunes artistes en herbe à se produire devant un large public afin de gagner en confiance et en notoriété. Des concerts auront lieu tous les deux mois à la Convent de La Pelouse et au Temple de Bex. Toutes les personnes intéressées sont invitées à s’inscrire en ligne ou à rss1@interopag.com
+      Le Festival de Musique de Bex a été fondé en 2025 par Robert et Machteld Schrama-Stewart afin de promouvoir des jeunes musiciens talentueux qui souhaitent se produire en public et ainsi se faire connaître pour leurs compétences professionnelles. Le Festival a débuté à Bex, dans le canton de Vaud, et a donné son premier concert à Amsterdam, dans la célèbre salle de concert Ijzerstaven. Le Festival encourage tous les jeunes artistes en herbe à se produire devant un large public afin de gagner en confiance et en notoriété. Des concerts auront lieu tous les deux mois à la Convent de La Pelouse et au Temple de Bex.
+
+      Toutes les personnes intéressées sont invitées à [nous contacter](#contact).
 
   concert:
     title: "Concert"
