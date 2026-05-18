@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-#    title: Welcome to our Studio!
+    title: Next concert on 31/05/2026
     text: Bex Music Festival
 #    button: Tell Me More
 #    buttonlink: "#services"
@@ -55,7 +55,7 @@ en: &DEFAULT_EN
 
 fr: &DEFAULT_FR
   header:
-#    title: Welcome to our Studio!
+    title: Prochain concert le 31/05/2026
     text: Bex Music Festival
 #    button: Tell Me More
 #    buttonlink: "#services"
