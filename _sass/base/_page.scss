@@ -29,6 +29,11 @@ h6 {
   @include heading-font;
 }
 
+blockquote {
+  margin: 0.5rem 0 0 2rem;
+  font-style: italic;
+}
+
 .page-section {
   padding: 100px 0;
   h2.section-heading {

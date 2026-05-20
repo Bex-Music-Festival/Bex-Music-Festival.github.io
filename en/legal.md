@@ -45,6 +45,6 @@ For more information about our privacy practices or if you have questions, pleas
 
 **CREDITS**
 
-This website uses a (picture)[https://commons.wikimedia.org/wiki/File:Bex_-_Dents_du_Midi.jpg] taken by Zacharie Grossen, licensed under (CC BY-SA 4.0)[https://creativecommons.org/licenses/by-sa/4.0/].
+This website uses a [picture](https://commons.wikimedia.org/wiki/File:Bex_-_Dents_du_Midi.jpg) taken by Zacharie Grossen, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-The theme of this website is based on (Agency Jekyll Theme)[http://jekyllthemes.org/themes/agency/] by Ravi Riley, licensed under the MIT license.
+The theme of this website is based on [Agency Jekyll Theme](http://jekyllthemes.org/themes/agency/) by Ravi Riley, licensed under the MIT license.
