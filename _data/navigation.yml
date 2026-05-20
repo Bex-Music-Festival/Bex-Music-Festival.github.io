@@ -15,8 +15,8 @@ en: &DEFAULT_EN
       section: presentation
     - title: "Concerts"
       section: concert
-    - title: "Practical Information"
-      section: about
+    - title: "About Us"
+      url: about
     - title: "Contact Us"
       section: contact
 
@@ -26,7 +26,5 @@ fr: &DEFAULT_FR
       section: presentation
     - title: "Concerts"
       section: concert
-    - title: "Info pratiques"
-      section: about
     - title: "Contactez-nous"
       section: contact

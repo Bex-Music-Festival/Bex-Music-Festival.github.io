@@ -21,6 +21,8 @@ en: &DEFAULT_EN
     text: |
       The Bex Music Festival was founded by Robert and Machteld Schrama-Stewart in 2025 to promote young, talented musicians to play in public to gain reognition for their professional skills. Strated in Bex, Vaud, it opened its forst concert in Amsterdam at the famed Ijzerstaven Concert Hall. The Festival promotes all budding young artists to play before large live audiences to gain confidence and recognition. Bi-monthly concerts will be held at La Pelouse Convent and the Bex Temple.
 
+      The Festival is open to all young people whose play will be mixed with world-class professionals to gain experience with them. All local musicians from Bex and the wider Chablais are welcome to apply. The Festival is open to all audiences.
+
       All interested parties should [contact us](#contact).
 
   concert:
@@ -28,13 +30,6 @@ en: &DEFAULT_EN
 #    text: "Lorem ipsum dolor sit amet consectetur."
     section: concert
     closebutton: "Close"
-
-  about:
-    title: "Practical Information"
-#    text: "our story"
-    body: |
-      The Festival is open to all young people whose play will be mixed with world-class professionals to gain experience with them. All local musicians from Bex and the wider Chablais are welcome to apply. The Festival is open to all audiences.
-    section: about
 
   contact:
     title: "Contact Us"
@@ -65,6 +60,8 @@ fr: &DEFAULT_FR
     text: |
       Le Festival de Musique de Bex a été fondé en 2025 par Robert et Machteld Schrama-Stewart afin de promouvoir des jeunes musiciens talentueux qui souhaitent se produire en public et ainsi se faire connaître pour leurs compétences professionnelles. Le Festival a débuté à Bex, dans le canton de Vaud, et a donné son premier concert à Amsterdam, dans la célèbre salle de concert Ijzerstaven. Le Festival encourage tous les jeunes artistes en herbe à se produire devant un large public afin de gagner en confiance et en notoriété. Des concerts auront lieu tous les deux mois à la Convent de La Pelouse et au Temple de Bex.
 
+      Le festival est ouvert à tous les jeunes dont les interprétations seront aux côtés de professionnels de classe mondiale, afin qu'ils puissent acquérir de l'expérience à leurs côtés. Tous les musiciens locaux de Bex et de l'ensemble du Chablais sont invités à postuler. Le festival s'adresse à tous les publics.
+
       Toutes les personnes intéressées sont invitées à [nous contacter](#contact).
 
   concert:
@@ -72,13 +69,6 @@ fr: &DEFAULT_FR
 #    text: "Lorem ipsum dolor sit amet consectetur."
     section: concert
     closebutton: "Fermer"
-
-  about:
-    title: "Info pratiques"
-#    text: "our story"
-    body: |
-      Le festival est ouvert à tous les jeunes dont les interprétations seront aux côtés de professionnels de classe mondiale, afin qu'ils puissent acquérir de l'expérience à leurs côtés. Tous les musiciens locaux de Bex et de l'ensemble du Chablais sont invités à postuler. Le festival s'adresse à tous les publics.
-    section: about
 
   contact:
     title: "Contactez-nous"
