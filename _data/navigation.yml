@@ -26,5 +26,7 @@ fr: &DEFAULT_FR
       section: presentation
     - title: "Concerts"
       section: concert
+    - title: "À propos de nous"
+      url: about
     - title: "Contactez-nous"
       section: contact
