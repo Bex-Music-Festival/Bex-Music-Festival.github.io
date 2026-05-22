@@ -9,9 +9,9 @@ p {
 }
 
 a {
-  color: darken($primary, 10%);
+  color: darken($primary, 5%);
   &:hover {
-    color: darken($primary, 20%);
+    color: darken($primary, 15%);
   }
 }
 
