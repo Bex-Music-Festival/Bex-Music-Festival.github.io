@@ -44,6 +44,8 @@ en: &DEFAULT_EN
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
     submit: "Send Message"
+    notice: |
+      By submitting this form, you agree that your information may be used to respond to your request. See our <a href="/legal" target="_blank">Privacy Policy</a>.
 
   footer:
     legal: "Legal Notice"
@@ -77,12 +79,14 @@ fr: &DEFAULT_FR
     name-validation: "Veuillez saisir votre nom."
     email: "Email *"
     email-validation: "Veuillez saisir votre adresse email."
-    phone: "Numéro de téléphone *"
+    phone: "Numéro de téléphone"
     phone-validation: "Veuillez saisir votre numéro de téléphone."
     message: "Message *"
     message-validation: "Veuillez saisir votre message."
     subject: "Envoyer"
     submit: "Envoyer"
+    notice: |
+      En soumettant ce formulaire, vous acceptez que vos informations soient utilisées afin de répondre à votre demande. Voir notre <a href="/legal" target="_blank">Politique de confidentialité</a>.
 
   footer:
     legal: "Mentions légales"

@@ -5,45 +5,45 @@ background: grey
 ---
 
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
+  <h2 class="section-heading text-uppercase">Privacy Policy</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+Last updated: 23/05/2026
 
-**PERSONAL INFORMATION WE COLLECT**
+#### 1. Data We Collect
 
-{% if site.analytics.google %}
+When you use the contact form on this website, we may collect:
 
-Automatically Collected (Google Analytics):
+- Your name
+- Your email address
+- Your telephone number (optional)
+- The content of your message
 
-When you visit the Site, we automatically receive information about your device from your browser, such as your IP address. As you browse the Site, we also collect information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
+#### 2. Purpose of Data Collection
 
-We collect Device Information using cookies. “Cookies” are data files that are placed on your device. For more information about cookies and how to disable them, visit http://www.allaboutcookies.org.
+Your personal data is collected only for the purpose of:
 
-We do this using Google Analytics: <https://www.google.com/intl/en/policies/privacy/>.
+- responding to your inquiry,
+- communicating with you regarding the event,
+- providing requested information.
 
-You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
+We do not use your data for advertising or marketing purposes.
 
-{% else %}
+#### 3. Data Sharing
 
-We do not collect any data about you or use any cookies.
+Your data is not sold or shared with third parties, except when required by law or necessary for the technical operation of the website hosting service.
 
-{% endif %}
+#### 4. Contact Information
 
-**CHANGES**
-
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
-
-
-{{ site.data.sitetext[current_lang].legal.text }}
-
-{{ current_lang }}
-
-**CONTACT US**
+Robert S. Stewart\
+Bex Music Festival and Foundation\
+Chemin du Crétel 9, 1880 Bex, Switzerland
 
 For more information about our privacy practices or if you have questions, please [contact us](./#contact).
 
-**CREDITS**
+<div class="col-lg-12 text-center">
+  <h2 class="section-heading text-uppercase py-4">Credits</h2>
+</div>
 
 This website uses a [picture](https://commons.wikimedia.org/wiki/File:Bex_-_Dents_du_Midi.jpg) taken by Zacharie Grossen, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 

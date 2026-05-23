@@ -44,4 +44,8 @@ section#contact {
     color: $gray-400;
     @include heading-font;
   }
+  .notice {
+    color: white;
+    margin-top: 2em;
+  }
 }

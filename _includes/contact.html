@@ -57,6 +57,9 @@
             <input type="hidden" name="_next" value="#" />
           </div>
         </form>
+	<div class="notice">
+          {{ site.data.sitetext[current_lang].contact.notice | markdownify }}
+        </div>
       </div>
     </div>
   </div>
