@@ -45,6 +45,8 @@ For more information about our privacy practices or if you have questions, pleas
   <h2 class="section-heading text-uppercase py-4">Credits</h2>
 </div>
 
+The logo and this website were created by Yuna Design.
+
 This website uses a [picture](https://commons.wikimedia.org/wiki/File:Bex_-_Dents_du_Midi.jpg) taken by Zacharie Grossen, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 The theme of this website is based on [Agency Jekyll Theme](http://jekyllthemes.org/themes/agency/) by Ravi Riley, licensed under the MIT license.

@@ -39,12 +39,14 @@ Robert S. Stewart\
 Bex Music Festival and Foundation\
 Chemin du Crétel 9, 1880 Bex, Suisse
 
-Pour plus d'informations sur notre politique de confidentialité ou si vous avez des questions, n'hésitez pas à [nous contacter](./#contact).
+Pour plus d’informations sur notre politique de confidentialité ou si vous avez des questions, n’hésitez pas à [nous contacter](./#contact).
 
 <div class="col-lg-12 text-center">
   <h2 class="section-heading text-uppercase py-4">Crédits</h2>
 </div>
 
-Ce siteweb utilise une [photo](https://commons.wikimedia.org/wiki/File:Bex_-_Dents_du_Midi.jpg) prise par Zacharie Grossen, sous la license [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Le logo et ce site web ont été créés par Yuna Design.
 
-Le thème de ce siteweb est basé sur [Agency Jekyll Theme](http://jekyllthemes.org/themes/agency/) par Ravi Riley, conçu sous la MIT license.
+Ce site web utilise une [photo](https://commons.wikimedia.org/wiki/File:Bex_-_Dents_du_Midi.jpg) prise par Zacharie Grossen, sous la license [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Le thème de ce site web est basé sur [Agency Jekyll Theme](http://jekyllthemes.org/themes/agency/) par Ravi Riley, conçu sous la MIT license.
