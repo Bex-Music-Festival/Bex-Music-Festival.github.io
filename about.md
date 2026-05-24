@@ -73,4 +73,4 @@ UNAIDS, World Infrastructure Congress, and the International Telecoms Union Summ
 #### Machteld Schrama
 
 Born in Amsterdam, Netherland. Sponsor of Geneva-based Swiss Catholic Charity, Steun Kinderen, SOS Kinderdorpen,
-Dutch Dressage Equestrian Rider and young musicies, such as Yunmo Zhang: Student on the Flute, HEMU, Lausanne.
+Dutch Dressage Equestrian Rider and young musicians, such as Yunmo Zhang: Student on the Flute, HEMU, Lausanne.

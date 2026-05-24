@@ -4,6 +4,12 @@ section#contact {
   background-image: url("#{$contact-image}");
   background-repeat: no-repeat;
   background-position: center;
+  a {
+    color: $primary;
+    &:hover {
+      color: darken($primary, 10%);
+    }
+  }
   .section-heading {
     color: $white;
   }
