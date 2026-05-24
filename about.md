@@ -4,59 +4,27 @@ title: About Us
 background: grey
 ---
 <div class="col-lg-12 text-center">
-  <h2 class="section-heading text-uppercase py-4">Location</h2>
+  <h2 class="section-heading text-uppercase py-4">Description des lieux</h2>
 </div>
 
-<img src="/assets/img/CHE_Bex_Flag.svg" class="rounded float-right" width="200" />
-BEX - pronounced in English/French as [bay/be] - a sheep’s natural
-bleating sound. The ram is depicted on the commune’s emblem and flag, is a small,
-farming, industrial, manufacturing, wine producing and residential
-municipality/commune in the canton of Vaud, Switzerland, located in the district of
-Aigle, SE of Geneva, Lausanne, and Montreux, south of the Lake of Geneva/Lac Leman, on the eastern
-banks of the Rhone River, bordering the Canton of Valais and the Haut Savoie of France. Surrounded by
-pre-Alpine slopes containing Chasselas, Pino Noire and Merlot grapes of distinction with an internationally
-acclaimed A.O.P. appellation, with visible mountain ranges containing peaks such as Le Dent de Morcles,
-Les Diablerets, les Dents du Midi.
+<img src="/assets/img/CHE_Bex_Flag.svg" class="rounded float-right pl-3" width="210" />
+Bex - prononcé [bè] en imitation du bêlement - est une petite commune suisse du canton de Vaux, dont le bélier figure sur les armoiries et le drapeau de la commune, située dans le district d’Aigle et qui est connue pour sa production de vin. Entourée par les multiples collines des Préalpes suisses où sont cultivés les cépages Chasselas, Pinot noir et Merlot distingués par l’Appellation d’Origine Protégée, la commune de Bex offre une vue sur les sommets tels que les Dents de Morcles, les Diablerets ou les Dents du Midi.
 
-Many communities have music organizations that promote learning and playing musical instruments,
-choral clubs, memberships in communal bands and orchestras, choirs and theatrical groups. The area is a
-very enthusiastic supporter of the arts. Other cities and communes with operating annual Music Festivals
-which are considered allies and not competition include the Menuhin Festival in Gstaad, The Verbier Music
-Festival, the Montreux Jazz Festival, 1066 Festival, Paleo Music Festival, and dozens more year-round.
+Nous avons dans cette région un grand nombre d’organisations promouvant tant l’enseignement que la pratique musicale, notamment par la création de chorales, de fanfares et autres orchestres et groupes théâtraux. Nous sommes notamment en collaboration avec les autres festivals annuels suisses tels que le Menuhin Festival Gstaad, le Verbier Festival, le Montreux Jazz Festival, le 1066 Festival, le Paléo Festival Nyon et une dizaine d’autres festivals.
 
 <div class="col-lg-12 text-center">
-  <h2 class="section-heading text-uppercase py-4">Vision and Misson</h2>
+  <h2 class="section-heading text-uppercase py-4">Notre mission</h2>
 </div>
 
-The Bex Music Festival vision is to establish a premier, community-focused
-chamber music festival in Bex, celebrated for its artistic excellence with a sustainable, modern business
-model.
+Le Bex Music Festival a pour but d’établir un festival de musique de chambre à vocation communautaire, en mettant en valeur l’excellence de nos artistes, avec un modèle économique durable et moderne.
 
-Part of the vision is to spot and to mentor the next generation of art
-entrepreneurs. The program is designed to find the next generation of system builders in the music world.
-Instead of competing with Verbier or Gstaad Festival for artistic prestige, from the Bex commune and
-surroundings, the next generation of artistic directors and CEOs will be identified and promoted. They will
-be provided with seed money and mentorship needed to successfully start their projects.
+Une partie de notre vision porte sur la mise en valeur de la nouvelle génération d’entrepreneurs du secteur artistique. Au lieu de se positionner comme concurrent des festivals de Verbier ou de Gstaad pour le prestige artistique, nous mettrons en avant cette nouvelle génération de directeurs artistiques issus de la commune de Bex et des alentours, qui bénéficieront d'un financement de démarrage et du mentorat nécessaire pour mener à bien leurs projets.
 
-The Bex Music Festival will be incorporated as a Non-Profit Foundation which will establish monthly
-concerts and an Annual Festival and Competition to be held in Bex and open to all prodigy musicians in
-the Canton de Vaud, especially from the Commune of Bex, who wish to perform on a world-class standard
-as professionals. This organization will establish a chain of future professionals as winners of the Bex
-Young Artist Prize to carry on the program. This creates an ongoing ecosystem of young artists who
-support each other from year-to-year as they rise through the ranks of professional musicians and
-entrepreneurs. Everyone joins the chain of successful musicians.
+Le Bex Music Festival se présente comme une fondation à but non lucratif, qui organise des concerts mensuels ainsi qu’un festival et une compétition annuels qui se tiendra à Bex, et qui permettrait aux jeunes talents du canton de Vaud, et surtout de la commune de Bex, qui rêveraient d’atteindre un niveau d’excellence international en tant que professionnels. Pour cela, l’organisation établira une filière de futurs professionnels, lauréats du Bex Young Artist Prize, afin de pérenniser le programme, ce qui permettrait d’avoir un écosystème de jeunes musiciens qui se soutiendraient d’année en année, à mesure qu’ils gravissent les échelons pour devenir des musiciens ou entrepreneurs professionnels.
 
-The Bex Music Festival will focus on the basic format of classical music as being the broadest basic start on the learning
-curve of both amateur and professional music offering the widest scope for future evolution that any
-musician may take. The Bex Music Festival will act as a stepping stone for students on the learning curve who may wish
-to attend any other Music Academy and after graduation become part of the process to enter the
-professional world.
+Le Bex Music Festival s’articulera autour du format traditionnel de la musique classique en tant que point de départ le plus large possible dans le parcours d'apprentissage des musiciens, qu'ils soient amateurs ou professionnels, offrant ainsi les perspectives d'évolution les plus vastes pour tout musicien. Le Bex Music Festival servira également de tremplin aux étudiants en formation qui souhaiteraient intégrer une autre académie de musique et, après l'obtention de leur diplôme, s'engager dans un parcours menant au monde professionnel.
 
-To the public, it will be another prestigious music festival performing unique chamber music/solo
-programs designed by young fellows. The goal throughout the life of the Bex Music Festival will be to identify any
-potential prodigy performer, then assist and mentor the next member of the world-class performers such
-as a “Yehudi Menuhin”, a “Janine Jansen”, and other world-class artists rather than
-pure performers.
+Pour le public, ce sera un nouveau festival de musique prestigieux où ils pourront entendre des programmes de musique de chambre et pour instruments seuls uniques programmés par des jeunes créateurs. L’objectif que nous visons à travers le Bex Music Festival est d’identifier les jeunes talents, pour ensuite propulser ces artistes vers une renommée mondiale, incarnée par des interprètes tels que Yehudi Menuhin ou Janine Jansen.
 
 <div class="col-lg-12 text-center">
   <h2 class="section-heading text-uppercase py-4">Founders</h2>
@@ -64,13 +32,8 @@ pure performers.
 
 #### Robert Sandford Stewart
 
-Born in Winnipeg, Manitoba, Canada. Invited VIP guest speaker to the World Bank/International Monetary Fund Annual
-Meetings since 1976, the World Economic Forum (Davos), the World Economic Council, Washington, DC, the
-Commonwealth Business Forum, the Crans Montana CEO Forum, the Monte Carlo CEO Forum, Banff CEO
-Forum, the United Nations General Assembly, United Nations Conference on Trade and Development,
-UNAIDS, World Infrastructure Congress, and the International Telecoms Union Summits (1973-2003).
+Né à Winnipeg, dans la province du Manitoba, au Canada, il est conférencier d'honneur invité aux Assemblées annuelles de la Banque mondiale et du Fonds monétaire international depuis 1976, au Forum économique mondial (Davos), au Conseil économique mondial à Washington, au Forum des entreprises du Commonwealth, au Forum des PDG de Crans-Montana, au Forum des PDG de Monte-Carlo, le Forum des PDG de Banff, l'Assemblée générale des Nations Unies, la Conférence des Nations Unies sur le commerce et le développement, l'ONUSIDA, le Congrès mondial sur les infrastructures et les sommets de l'Union internationale des télécommunications (1973-2003).
 
 #### Machteld Schrama
 
-Born in Amsterdam, Netherland. Sponsor of Geneva-based Swiss Catholic Charity, Steun Kinderen, SOS Kinderdorpen,
-Dutch Dressage Equestrian Rider and young musicians, such as Yunmo Zhang: Student on the Flute, HEMU, Lausanne.
+Née à Amsterdam, aux Pays-Bas, elle est mécène de l'association caritative catholique suisse « Steun Kinderen », basée à Genève, de SOS Villages d'Enfants, de cavaliers néerlandais de dressage et de jeunes musiciens, tels que Yunmo Zhang : étudiant en flûte à l'HEMU de Lausanne.

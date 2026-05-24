@@ -11,18 +11,18 @@ background: grey
 BEX - pronounced in English/French as [bay/be] - a sheep’s natural
 bleating sound. The ram is depicted on the commune’s emblem and flag, is a small,
 farming, industrial, manufacturing, wine producing and residential
-municipality/commune in the canton of Vaud, Switzerland, located in the district of
+municipality/commune in the Canton of Vaud, Switzerland, located in the district of
 Aigle, SE of Geneva, Lausanne, and Montreux, south of the Lake of Geneva/Lac Leman, on the eastern
-banks of the Rhone River, bordering the Canton of Valais and the Haut Savoie of France. Surrounded by
+banks of the Rhône River, bordering the Canton of Valais and the Haut Savoie of France. Surrounded by
 pre-Alpine slopes containing Chasselas, Pinot Noir and Merlot grapes of distinction with an internationally
-acclaimed A.O.P. appellation, with visible mountain ranges containing peaks such as Le Dent de Morcles,
+acclaimed A.O.P. appellation, with visible mountain ranges containing peaks such as Les Dents de Morcles,
 Les Diablerets, les Dents du Midi.
 
 Many communities have music organisations that promote learning and playing musical instruments,
 choral clubs, memberships in communal bands and orchestras, choirs and theatrical groups. The area is a
 very enthusiastic supporter of the arts. Other cities and communes with operating annual Music Festivals
-which are considered allies and not competition include the Menuhin Festival in Gstaad, The Verbier Music
-Festival, the Montreux Jazz Festival, 1066 Festival, Paleo Music Festival, and dozens more year-round.
+which are considered allies and not competition include the Menuhin Festival Gstaad, The Verbier
+Festival, the Montreux Jazz Festival, 1066 Festival, Paléo Music Festival, and dozens more year-round.
 
 <div class="col-lg-12 text-center">
   <h2 class="section-heading text-uppercase py-4">Vision and Mission</h2>
@@ -40,7 +40,7 @@ be provided with seed money and mentorship needed to successfully start their pr
 
 The Bex Music Festival will be incorporated as a Non-Profit Foundation which will establish monthly
 concerts and an Annual Festival and Competition to be held in Bex and open to all prodigy musicians in
-the Canton de Vaud, especially from the Commune of Bex, who wish to perform on a world-class standard
+the Canton de Vaud, especially from the commune of Bex, who wish to perform on a world-class standard
 as professionals. This organisation will establish a chain of future professionals as winners of the Bex
 Young Artist Prize to carry on the program. This creates an ongoing ecosystem of young artists who
 support each other from year-to-year as they rise through the ranks of professional musicians and
