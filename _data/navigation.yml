@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     - title: "Concerts"
       section: concert
     - title: "About Us"
-      url: about
+      url: /en/about
     - title: "Contact Us"
       section: contact
 
@@ -27,6 +27,6 @@ fr: &DEFAULT_FR
     - title: "Concerts"
       section: concert
     - title: "À propos de nous"
-      url: about
+      url: /about
     - title: "Contactez-nous"
       section: contact
