@@ -3,10 +3,19 @@
 {% assign current_lang = url_parts[1] %}
 {% if current_lang != "en" %}
   {% assign current_lang = "fr" %}
+  {% assign lang_prefix = "/" %}
+{% else %}
+  {% assign lang_prefix = "/" | append: current_lang | append: "/" %}
 {% endif %}
 <html lang="{{ current_lang | slice: 0,2 | default: "fr" }}">
 
   {% include head.html %}
+
+{% if page.layout == "home" %}
+  {% include navheader.html %}
+{% else %}
+  {% include nav.html %}
+{% endif %}
 
   <body id="page-top">
 

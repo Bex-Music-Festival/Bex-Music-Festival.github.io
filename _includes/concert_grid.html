@@ -8,23 +8,23 @@
       </div>
     </div>
     <div class="row">
-      {% for project in site.concert reversed %}
+      {%- assign collection_name = "concerts" | append: "_" | append: current_lang -%}
+      {% for concert in site[collection_name] reversed %}
       <div class="col-md-4 col-sm-6 concert-item">
-        <a class="concert-link" data-toggle="modal" href="#p{{ forloop.index }}">
+        <a class="concert-link" href="{{ concert.id }}">
           <div class="concert-hover">
             <div class="concert-hover-content">
               <i class="{{ site.data.style.concert-icon | default: "fas fa-plus fa-3x" }}"></i>
             </div>
           </div>
-          <img class="img-fluid" src="{{ project.image }}" alt="">
+          <img class="img-fluid" src="{{ concert.image }}" alt="">
         </a>
         <div class="concert-caption">
-          <h4>{{ project[current_lang].title }}</h4>
-          <p class="text-muted">{{ project.date_str }}</p>
+          <h4>{{ concert.title }}</h4>
+          <p class="text-muted">{{ concert.date_str }}</p>
         </div>
       </div>
 	{% endfor %}
     </div>
   </div>
 </section>
-{% include concert_modals.html %}

@@ -27,19 +27,11 @@
             >{{ link.title }}</a
           >
           {%- elsif link.section -%}
-	  {%- if current_lang == "fr" -%}
           <a
             class="nav-link js-scroll-trigger"
-            href="{{ site.baseurl }}/#{{ link.section }}"
+            href="{{ site.baseurl }}{{lang_prefix}}#{{ link.section }}"
             >{{ link.title }}</a
           >
-          {%- else -%}
-          <a
-            class="nav-link js-scroll-trigger"
-            href="{{ site.baseurl }}/{{current_lang}}/#{{ link.section }}"
-            >{{ link.title }}</a
-          >
-          {%- endif -%}
           {%- else -%}
           <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
           {%- endif -%}

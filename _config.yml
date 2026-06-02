@@ -30,7 +30,14 @@ analytics:
   google: #Google Analytics tracking code here
 
 collections:
-  concert:
+  concerts_fr:
+    output: true
+    permalink: /concerts/:path
+    layout: page
+  concerts_en:
+    output: true
+    permalink: /en/concerts/:path
+    layout: page
 
 markdown: kramdown
 

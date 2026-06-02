@@ -5,9 +5,10 @@ layout: default
 {% assign current_lang = url_parts[1] %}
 {% if current_lang != "en" %}
   {% assign current_lang = "fr" %}
+  {% assign lang_prefix = "/" %}
+{% else %}
+  {% assign lang_prefix = "/" | append: current_lang | append: "/" %}
 {% endif %}
-{% include navheader.html %}
-
 {% include presentation.html %}
 {% include concert_grid.html %}
 {% include contact.html %}
